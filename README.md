@@ -1,0 +1,2 @@
+# tp3-stds-fi-khadija-ameur-hassan-amediaze
+Les arbres de décision Les arbres de décision sont des méthodes d’apprentissage non paramétriques utilisées pour des problèmes de classification et de régression. L’objectif est de créer un modèle qui prédit les valeurs de la variable cible, en se basant sur un ensemble de séquences de règles de décision déduites à partir des données d’apprentissage. L’arbre approxime donc la cible par une succession de règles if- then-else.
